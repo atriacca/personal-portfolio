@@ -13,11 +13,33 @@
     position: center;
     margin: auto;
 }
+.project {
+    display: grid; 
+    grid-template-columns: minmax(180px, 80%) minmax(180px, 20%); 
+    grid-template-rows: auto auto; 
+    column-gap: 90px; 
+    padding: 10px; 
+    margin: 10px;
+    border: 1px solid blue; 
+    border-radius: 3px;
+}
+/* .project > h5 {
+    display: float; 
+} */
 img {
     float: right;
     position: relative;
-    height: 200px;
+    /* height: 200px; */
+    /* width: auto; */
+    width: 250px;
+    height: auto;
 }
+/* h6 > img {
+    float: right;
+    position: relative;
+    width: 350px;
+    height: auto;
+} */
 h4 {
     font-size: 1.5em;
     font-weight: 800;
@@ -148,7 +170,7 @@ p > a:hover {
         }
     img {
         float: none;
-        height: 200px;
+        width: 200px;
         z-index: -1;
         display: block;
         margin: 0px auto -40px auto;
