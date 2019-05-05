@@ -20,7 +20,7 @@ function Projects() {
                 <div className="project">
                     <h6>BusinessTime exercise</h6>
                 </div>
-                <p>* This web page is under construction. More info and links will be added periodically...</p>
+                <p>* This web page is under construction. More info, projects and links will be added periodically... Please come back again to check it out every few weeks.</p>
             </div>
         </div>
     )

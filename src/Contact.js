@@ -9,7 +9,6 @@ function Contact() {
             <p>GitHub: <a href="https://github.com/atriacca" target='_blank' rel="noopener noreferrer">https://github.com/atriacca</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/alantriacca/" target='_blank' rel="noopener noreferrer">https://www.linkedin.com/in/alantriacca/</a></p>
             <p>Website: <a href="https://www.alantriacca.com" target='_blank' rel="noopener noreferrer">https://www.alantriacca.com</a></p><br></br>
-            <p>* NOTE: This website is under construction. Please come back again to check it out every few weeks.</p>
         </div>
     )
 }

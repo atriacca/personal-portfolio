@@ -8,6 +8,7 @@ function Intro() {
             <br></br>
             <h2>ALAN</h2>
             <h3>TRIACCA</h3>
+            <h5>Full Stack JavaScript Developer</h5>
             </div>
         </div>
     )
