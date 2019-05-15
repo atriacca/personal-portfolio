@@ -11,13 +11,14 @@
 .page {
     max-width: 8in;
     position: center;
-    margin: auto;
+    /* margin: auto; */
 }
 .project {
     display: grid; 
     grid-template-columns: minmax(180px, 80%) minmax(180px, 20%); 
     grid-template-rows: auto auto; 
     column-gap: 90px; 
+    overflow: auto;
     padding: 10px; 
     margin: 10px;
     border: 1px solid darkblue; 
@@ -28,9 +29,9 @@
 } */
 .name > img {
     float: right;
-    /* position: relative; */
     width: 300px;
     height: auto;
+    /* position: relative; */
 }
 img {
     float: right;
