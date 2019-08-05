@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-import './atriaccaresume20190420.odt';
-import './atriaccaresume20190420.pdf';
-import './atriaccaresume20190420.jpg';
-import './atriaccaresume20190420.docx';
-import './zen-garden-img.png';
+// import './resources/atriaccaresume20190805.odt';
+// import './resources/atriaccaresume20190805.pdf';
+// import './resources/atriaccaresume20190805.jpg';
+// import './resources/atriaccaresume20190805.docx';
+// import './resources/zen-garden-img.png';
 
 ReactDOM.render(<App />, document.getElementById('root'));

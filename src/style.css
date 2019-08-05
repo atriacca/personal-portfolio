@@ -205,6 +205,12 @@ p > a:hover {
         padding: 8px;
         column-gap: 9px; 
     }
+    .overlay-open {
+        right: 0px;
+    }
+    .overlay-closed {
+        right: -200vw;
+    }
 }
 /*
 .linear {transition-timing-function: cubic-bezier(0,0,1,1);}
