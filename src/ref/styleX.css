@@ -11,13 +11,14 @@
 .page {
     max-width: 8in;
     position: center;
-    margin: 0 auto;
+    /* margin: auto; */
 }
 .project {
     display: grid; 
     grid-template-columns: minmax(180px, 80%) minmax(180px, 20%); 
     grid-template-rows: auto auto; 
     column-gap: 90px; 
+    overflow: auto;
     padding: 10px; 
     margin: 10px;
     border: 1px solid darkblue; 
@@ -28,9 +29,9 @@
 } */
 .name > img {
     float: right;
-    /* position: relative; */
     width: 300px;
     height: auto;
+    /* position: relative; */
 }
 img {
     float: right;
@@ -65,7 +66,7 @@ h4 {
 }
 .name {
     /* color: darkblue; */
-    margin: 0px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
 }
 .separator {
@@ -108,7 +109,7 @@ p {
     left: 25px;
     top: 25px;
     padding: 10px;
-    /* margin: 10px; */
+    margin: 10px;
 }
 .nav > a {
     color: lightblue;
@@ -146,13 +147,11 @@ p > a:hover {
     left: -200px;
 }
 .nav-open {
-    margin-top: -10px;
     left: 0px;
 }
 .overlay {
-    margin-top: -10px;
     width: 100%;
-    height: 100vw;
+    height: 100%;
     background-image: url("https://cdn-images-1.medium.com/max/1600/1*agGENodMcD6hhwIFdqGwrw.jpeg");
     /* background-image: url("https://images.unsplash.com/photo-1464547304833-02f72e3835ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"); */
     /* background-image: url("https://images.unsplash.com/photo-1466618572466-002f11d518db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"); */
@@ -207,12 +206,6 @@ p > a:hover {
         padding: 8px;
         column-gap: 9px; 
     }
-    .overlay-open {
-        right: 0px;
-    }
-    .overlay-closed {
-        right: -200vw;
-    }
 }
 /*
 .linear {transition-timing-function: cubic-bezier(0,0,1,1);}
@@ -220,4 +213,12 @@ p > a:hover {
 .easeIn {transition-timing-function: cubic-bezier(0.42,0,1,1);}
 .easeOut {transition-timing-function: cubic-bezier(0,0,0.58,1);}
 .easeInOut {transition-timing-function: cubic-bezier(0.42,0,0.58,1);}
+
+[{
+    "ID":121,"title":"Veerle Pieters","content":"<p>I&#8217;m always surprised by the speed that people judge a site. They&#8217;ve seen it for a few seconds, and already an opinion has been formed. When I look at a design of a site, I don&#8217;t immediately vent an opinion, but I take it all in slowly and start to think of what could have been on the mind of the designer.  <\/p>\n","link":"https:\/\/quotesondesign.com\/veerle-pieters\/","custom_meta":{"Source":"<a href=\"http:\/\/www.duoh.com\/news\/article\/do-you-innovate-or-opt-for-the-safe-route-in-web-design\/\">Article<\/a>"}
+},{
+    "ID":596,"title":"Carolyn Wood","content":"<p>Turning away bad clients can leave you feeling oddly guilty. They&#8217;re sort of like alcoholic or meth head cousins who force you, by their own bad behavior into denying them things you wouldn&#8217;t deny other people. You&#8217;re left feeling not quite yourself.  <\/p>\n","link":"https:\/\/quotesondesign.com\/carolyn-wood\/","custom_meta":{"Source":"<a href=\"http:\/\/twitter.com\/carywood\/status\/2121020860\">Twitter<\/a>"}
+},{
+    "ID":2502,"title":"Viran Anuradha Dayaratne","content":"<p>As designers, you live in the future. It&#8217;s not that we are not interested in the work we&#8217;ve done before; it&#8217;s just we are so consumed by what we haven&#8217;t done yet.<\/p>\n","link":"https:\/\/quotesondesign.com\/viran-anuradha-dayaratne-2\/"}]
+
 */

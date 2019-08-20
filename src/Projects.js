@@ -13,7 +13,7 @@ function Projects() {
                 <div className="project">
                     <h6>Quotes on Design API exercise:<br></br><br></br>
                     I created this app for the Personal React Site API project at V School's Full Stack JavaScript Development Bootcamp. I chose the <a href="https://quotesondesign.com/api-v4-0/" target="_blank" rel="noopener noreferrer">Quotes on Design</a> API for this project. The quotes revolve around web development, coding, design, etc. The app allows the user to display random quotations then save any for future viewing. Please click <a href="http://atriacca-devquotes.surge.sh/" target="_blank" rel="noopener noreferrer">here</a> to load my DevQuotes project.<br></br><br></br>
-                    Built with JavaScript, React, Node.js, HTML, and CSS</h6><a href="http://atriacca-devquotes.surge.sh/" target="_blank" rel="noopener noreferrer"><img src={require('./resources/DevQuotes-no-border.png')} alt="Unable to render"/></a>
+                    Built with JavaScript, React, Node.js, Axios, HTML, and CSS</h6><a href="http://atriacca-devquotes.surge.sh/" target="_blank" rel="noopener noreferrer"><img src={require('./resources/DevQuotes-no-border.png')} alt="Unable to render"/></a>
                 </div>
                 <div className="project">
                     <h6>Zen Garden CSS exercise:<br></br><br></br>

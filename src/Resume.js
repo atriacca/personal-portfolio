@@ -5,7 +5,7 @@ function Resume() {
         <div className='btnwrapper'>
             <h4>Resume</h4>
             <span>
-                <a href={require('./resources/atriaccaresume20190805.docx')} download>
+                <a href={require('./resources/atriaccaresume20190819.docx')} download>
                 <button className='btn'>Download .doc file</button></a>
             </span>
             <span>
