@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Wishing safe travels to my burner family, some new - some longtime, returning to the default world from HOME. I'm so looking forward to any and all stories you care to share!
+
+I found this beautiful 4 minute snapshot of BM 2018, which was my first since 2009. Such magical memories...
+
+I didn't attend this year, but the insane last minute idea to attempt going started a whirlwind magic carpet ride as I helped many (almost orphans) make it HOME! Many for the very first time! I'll be posting more details as I decompress. So needless to say how off the charts rewarding this experience was!!
+
+I'm bursting at the seems with gratitude while having THE BEST WEEK OF MY LIFE!!
+
+
+It almost seems blasphemous to say this, but I'm so glad I didn't go to Burning Man because as amazing as I know it would've been, it would be ludicrous to think that it could've been half as good as it was.
+
+Fuck our 2020 burns!
+
+.
+.
+
 ## Available Scripts
 
 In the project directory, you can run:
