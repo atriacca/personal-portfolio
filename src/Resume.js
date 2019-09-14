@@ -20,10 +20,6 @@ function Resume() {
                 <a href={require('./atriaccaresume20190420.pdf')} download>
                 <button className='btn'>Download .pdf file</button></a>
             </span> */}
-            {/* <span>
-                <a href={require('./atriaccaresume20190420.rtf')} download>
-                <button className='btn'>Download Rich Text file</button></a>
-            </span> */}
         </div>
     )
 }
