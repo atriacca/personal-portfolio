@@ -5,15 +5,15 @@ function Resume() {
         <div className='btnwrapper'>
             <h4>Resume</h4>
             <span>
-                <a href={require('./resources/atriaccaresume20190928.docx')} download>
+                <a href={require('./resources/atriaccaresume20190929.docx')} download>
                 <button className='btn'>Download .doc file</button></a>
             </span>
             <span>
-                <a href={require('./resources/atriaccaresume20190928.jpg')} download>
+                <a href={require('./resources/atriaccaresume20190929.jpg')} download>
                 <button className='btn'>Download .jpg file</button></a>
             </span>
             <span>
-                <a href={require('./resources/atriaccaresume20190928.odt')} download>
+                <a href={require('./resources/atriaccaresume20190929.odt')} download>
                 <button className='btn'>Download OpenDoc file</button></a>
             </span>
             {/* <span>
