@@ -28,10 +28,10 @@ class App extends Component {
                 <div 
                     onClick={this.navToggler}
                     className={`overlay overlay-${this.state.navToggle ? "open" : "closed"}`}></div>
-                    <div class="page app-container" onclick={this.navToggler}>
-                    <div class="ham-top"></div>
-                    <div class="ham-mid"></div>
-                    <div class="ham-bot"></div>
+                    <div className="page app-container" onClick={this.navToggler}>
+                    <div className="ham-top"></div>
+                    <div className="ham-mid"></div>
+                    <div className="ham-bot"></div>
                     </div>
                     <button onClick={this.navToggler}>|||</button>
                 <Navbar navToggler={this.navToggler} navToggle={this.state.navToggle}/>
